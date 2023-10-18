@@ -1,15 +1,15 @@
 /*  your css code here. If applicable */
-#container{
+ #container{
     margin: 20px;
 }
-#container ::before {
+ #container ::before {
     content: "Before Element ";
-    color: red;
+    color: rgb(255,0,0);
     font-size: 20px;
   }
-  #container ::after {
+   #container ::after {
     content: " After Element ";
-    color: red;
+    color: rgb(255,0,0);
     font-size: 20px;
   }
   
