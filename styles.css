@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#span1{
+	color:red;
+	font-size:20px
+}
+#span2{
+	color:red;
+	font-size:20px
+}
+#container{
+	margin:20px;
+	
+}
